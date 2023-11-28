@@ -1,4 +1,4 @@
-<div style="background-color: black; color: white;">
+
 ![MasterHead](https://cdn.dribbble.com/users/1019864/screenshots/3079099/codeloop.gif)
 <h1 align="center">Hi 👋, I'm Abdullah Jamshaid</h1>
 <h3 align="center">A passionate Software Engineer from Pakistan</h3>
@@ -141,4 +141,3 @@
 </div>
 
 ###
-</div>
